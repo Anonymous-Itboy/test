@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="194efd9d-ed99-47ed-a566-8a8fdea55ead" name="GitHub" url="https://github.com/Anonymous-Itboy/cpp_workspace.git">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$/.." accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
